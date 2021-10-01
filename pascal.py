@@ -1,4 +1,4 @@
-def _copy(l, l2):
+If you do want to hold an in person event, there’s a few things to note: def _copy(l, l2):
     l2.clear()
     for i in l:
         l2.append(i)
@@ -11,7 +11,7 @@ def _ls(l):
         b += '{} '.format(c)
     return b
 
-
+# This execute the main operations to be done
 def main(n):
     if n == 1:
         print(1)
