@@ -3,7 +3,6 @@ If you do want to hold an in person event, there’s a few things to note: def _
     for i in l:
         l2.append(i)
 
-
 def _ls(l):
     b = ''
     for i in l:
@@ -48,15 +47,12 @@ def main(n):
             lst3.append(1)
             _copy(lst3, lst)
 
-
 print()
 print('Welcome to the "PASCAL\'s TRIANGLE"')
-
 
 # Main Loop Starts Here
 while True:
     try:
-
         print()
         choice = int(input('Enter the number of rows you want to print(0 -> quit): '))
 
