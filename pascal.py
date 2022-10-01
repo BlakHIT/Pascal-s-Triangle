@@ -3,6 +3,7 @@ If you do want to hold an in person event, there’s a few things to note: def _
     for i in l:
         l2.append(i)
 
+        
 def _ls(l):
     b = ''
     for i in l:
